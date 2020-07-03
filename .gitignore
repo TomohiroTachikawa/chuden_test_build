@@ -1,0 +1,12 @@
+Assets/Sentinel/VR/HumanArms/Ling.fbm/
+Assets/Sentinel/VR/HumanArms/Ling.fbx
+Library/
+obj/
+UWP/
+Assets/StreamingAssets/
+DevelopData/
+Temp/
+.DS_Store
+*.csproj
+*.sln
+*.userprefs
