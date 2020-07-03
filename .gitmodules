@@ -1,3 +1,6 @@
 [submodule "Assets/MIXER"]
 	path = Assets/MIXER
 	url = git@github.com:communication-planning/MIXER.git
+[submodule "Assets/NGUI"]
+	path = Assets/NGUI
+	url = git@github.com:TomoyaUrata/NGUI.git
