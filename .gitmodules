@@ -7,3 +7,6 @@
 [submodule "Assets/Plugins"]
 	path = Assets/Plugins
 	url = git@github.com:TomoyaUrata/Plugins.git
+[submodule "Assets/Sentinel"]
+	path = Assets/Sentinel
+	url = git@github.com:TomoyaUrata/Sentinel.git
