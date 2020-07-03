@@ -4,3 +4,6 @@
 [submodule "Assets/NGUI"]
 	path = Assets/NGUI
 	url = git@github.com:TomoyaUrata/NGUI.git
+[submodule "Assets/Plugins"]
+	path = Assets/Plugins
+	url = git@github.com:TomoyaUrata/Plugins.git
