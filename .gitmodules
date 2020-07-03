@@ -1,0 +1,3 @@
+[submodule "Assets/MIXER"]
+	path = Assets/MIXER
+	url = git@github.com:communication-planning/MIXER.git
