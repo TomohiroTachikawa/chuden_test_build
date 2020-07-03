@@ -10,3 +10,6 @@
 [submodule "Assets/Sentinel"]
 	path = Assets/Sentinel
 	url = git@github.com:TomoyaUrata/Sentinel.git
+[submodule "Assets/Simulation"]
+	path = Assets/Simulation
+	url = https://github.com/TomohiroTachikawa/Demolition_Simulation.git
