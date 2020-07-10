@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 59703ca028e7cc54dad0b415a3bfdc0b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: RS3_maincircuit2
+    100002: RS3_maincircuit3
+    100004: RS3_maincircuit4
+    100006: RS3_maincircuit5
+    100008: RS3_maincircuit6
+    100010: RS3_microswitch1bar
+    100012: RS3_microswitch2bar
+    100014: RS3_microswitch3bar
+    100016: RS3_onoffhandle
+    100018: RS3_paper3
+    100020: RS3_partsInner1
+    100022: RS3_partsInner11
+    100024: RS3_partsInner2
+    100026: RS3_partsInner3
+    100028: RS3_partsInner4
+    100030: RS3_partsInner5
+    100032: RS3_partsInner6
+    100034: RS3_partsInner7
+    100036: RS3_partsInner8
+    100038: RS3_partsInner9
+    100040: RS3_shisihin
+    100042: //RootNode
+    400000: RS3_maincircuit2
+    400002: RS3_maincircuit3
+    400004: RS3_maincircuit4
+    400006: RS3_maincircuit5
+    400008: RS3_maincircuit6
+    400010: RS3_microswitch1bar
+    400012: RS3_microswitch2bar
+    400014: RS3_microswitch3bar
+    400016: RS3_onoffhandle
+    400018: RS3_paper3
+    400020: RS3_partsInner1
+    400022: RS3_partsInner11
+    400024: RS3_partsInner2
+    400026: RS3_partsInner3
+    400028: RS3_partsInner4
+    400030: RS3_partsInner5
+    400032: RS3_partsInner6
+    400034: RS3_partsInner7
+    400036: RS3_partsInner8
+    400038: RS3_partsInner9
+    400040: RS3_shisihin
+    400042: //RootNode
+    2100000: RS3_onoffhandle
+    2100002: RS3_paper
+    2100004: RS3_partsInner
+    2100006: RS3_shisihin
+    2100008: RS3_maincircuit
+    2100010: mtl_steal_silver
+    2100012: RS3_microswitch1
+    2100014: RS3_microswitch2
+    2100016: RS3_microswitch3
+    2300000: RS3_maincircuit2
+    2300002: RS3_maincircuit3
+    2300004: RS3_maincircuit4
+    2300006: RS3_maincircuit5
+    2300008: RS3_maincircuit6
+    2300010: RS3_microswitch1bar
+    2300012: RS3_microswitch2bar
+    2300014: RS3_microswitch3bar
+    2300016: RS3_onoffhandle
+    2300018: RS3_paper3
+    2300020: RS3_partsInner1
+    2300022: RS3_partsInner11
+    2300024: RS3_partsInner2
+    2300026: RS3_partsInner3
+    2300028: RS3_partsInner4
+    2300030: RS3_partsInner5
+    2300032: RS3_partsInner6
+    2300034: RS3_partsInner7
+    2300036: RS3_partsInner8
+    2300038: RS3_partsInner9
+    2300040: RS3_shisihin
+    3300000: RS3_maincircuit2
+    3300002: RS3_maincircuit3
+    3300004: RS3_maincircuit4
+    3300006: RS3_maincircuit5
+    3300008: RS3_maincircuit6
+    3300010: RS3_microswitch1bar
+    3300012: RS3_microswitch2bar
+    3300014: RS3_microswitch3bar
+    3300016: RS3_onoffhandle
+    3300018: RS3_paper3
+    3300020: RS3_partsInner1
+    3300022: RS3_partsInner11
+    3300024: RS3_partsInner2
+    3300026: RS3_partsInner3
+    3300028: RS3_partsInner4
+    3300030: RS3_partsInner5
+    3300032: RS3_partsInner6
+    3300034: RS3_partsInner7
+    3300036: RS3_partsInner8
+    3300038: RS3_partsInner9
+    3300040: RS3_shisihin
+    4300000: RS3_onoffhandle
+    4300002: RS3_paper3
+    4300004: RS3_partsInner5
+    4300006: RS3_partsInner8
+    4300008: RS3_shisihin
+    4300010: RS3_maincircuit2
+    4300012: RS3_maincircuit5
+    4300014: RS3_partsInner11
+    4300016: RS3_partsInner1
+    4300018: RS3_maincircuit3
+    4300020: RS3_maincircuit4
+    4300022: RS3_partsInner2
+    4300024: RS3_partsInner3
+    4300026: RS3_partsInner9
+    4300028: RS3_microswitch1bar
+    4300030: RS3_partsInner6
+    4300032: RS3_partsInner7
+    4300034: RS3_partsInner4
+    4300036: RS3_maincircuit6
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
